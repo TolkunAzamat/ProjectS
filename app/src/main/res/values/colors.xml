@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark25">#7A7E80</color>
+    <color name="dark50">#464A4D</color>
+    <color name="dark75">#161719</color>
+    <color name="dark100">#0D0E0F</color>
+    <color name="shape">#D0D0D0</color>
+
+    <!-- Light Color Kit -->
+    <color name="light20">#E5E5E5</color>
+    <color name="light40">#F2F4F5</color>
+    <color name="light60">#F7F9FA</color>
+    <color name="light80">#FBFBFB</color>
+    <color name="light100">#FFFFFF</color>
+
+    <!-- Violet Color Kit -->
+    <color name="violet20">#EEE5FF</color>
+    <color name="violet40">#D3BDFF</color>
+    <color name="violet60">#B18AFF</color>
+    <color name="violet80">#8F57FF</color>
+    <color name="violet100">#7F3DFF</color>
+
+    <!-- Red Color Kit -->
+    <color name="red20">#FDD5D7</color>
+    <color name="red40">#FDA2A9</color>
+    <color name="red60">#FD6F7A</color>
+    <color name="red80">#FD5662</color>
+    <color name="red100">#FD3C4A</color>
+
+    <!-- Green Color Kit -->
+    <color name="green20">#CFFAEA</color>
+    <color name="green40">#93EACA</color>
+    <color name="green60">#65D1AA</color>
+    <color name="green80">#2AB784</color>
+    <color name="green100">#00A86B</color>
+
+    <!-- Yellow Color Kit -->
+    <color name="yellow20">#FCEED4</color>
+    <color name="yellow40">#FCDDA1</color>
+    <color name="yellow60">#FCCC6F</color>
+    <color name="yellow80">#FCBB3C</color>
+    <color name="yellow100">#FCAC12</color>
+
+    <!-- Blue Color Kit -->
+    <color name="blue20">#BDDCFF</color>
+    <color name="blue40">#8AC0FF</color>
+    <color name="blue60">#57A5FF</color>
+    <color name="blue80">#248AFF</color>
+    <color name="blue100">#0077FF</color>
+</resources>

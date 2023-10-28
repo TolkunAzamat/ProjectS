@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <style name="splash_text">
+    <item name="fontFamily">@font/shrikhand_regular</item>
+    <item name="android:textSize">64sp</item>
+    <item name="android:textColor">@color/dark100</item>
+</style>
+
+    <style name="Title_X">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">64sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+
+    <style name="Title_1">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+
+    <style name="Title_2">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+
+    <style name="Title_3">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+    <style name="Title_4">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+    <style name="Title_top">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/dark100</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="Regular_1">
+        <item name="fontFamily">@font/nunito_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+
+    <style name="Regular_2">
+        <item name="fontFamily">@font/nunito_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/dark100</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Regular_3">
+        <item name="fontFamily">@font/nunito_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+
+    <style name="Small">
+        <item name="fontFamily">@font/nunito_medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/dark100</item>
+    </style>
+
+    <style name="Tiny">
+        <item name="fontFamily">@font/nunito_medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>
